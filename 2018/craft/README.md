@@ -1,3 +1,7 @@
+# Download
+
+https://github.com/josephwilk/presentations/raw/master/2018/craft/CraftingInstrumentsInCode.pdf
+
 # Links
 
 * https://en.wikipedia.org/wiki/Silver_Apples
